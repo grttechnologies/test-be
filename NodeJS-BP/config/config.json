@@ -1,0 +1,14 @@
+{
+    "development": {
+    "config_id": "development",
+    "app_name": "my app",
+    "app_desc": "my app desc",
+    "node_port": 3000,
+    "json_indentation": 4,
+    "database": "mongodb+srv://dummy1:hZgAAu2iNihBQhXl@cluster0-nrl3d.mongodb.net/test?retryWrites=true&w=majority"
+    },
+    "testing": {
+     "config_id": "testing",
+     "database": "my-app-db-test"
+    }
+    }
